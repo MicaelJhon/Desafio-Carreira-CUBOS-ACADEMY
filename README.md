@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# EXEMPLO - Conteúdo modelo no GitHub
+# Meu desafio CUBOS ACADEMY
 
 ## Conteúdos a serem trabalhados neste módulo :
 
